@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, MySql, c#, python**
+- 💬 Ask me about **React, MySql, C#, Python**
 
 - 📫 How to reach me **shellyniazov11@gmail.com**
 
