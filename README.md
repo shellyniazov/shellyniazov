@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **shellyniazov11@gmail.com**
 
-- ⚡ Fun fact **I think I'm witty and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
