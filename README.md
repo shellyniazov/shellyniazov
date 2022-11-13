@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shelly-niazov" target="blank"><img align="center" src="https://i.postimg.cc/bvYtJJWC/icons8-facebook-64.png" alt="www.linkedin.com/in/shelly-niazov" height="40" width="40" /></a>
-<a href="www.linkedin.com/in/shelly-niazov11" target="blank"><img align="center" src="https://i.postimg.cc/sfb7c3Gx/icons8-linkedin-64.png" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shelly-niazov11" target="blank"><img align="center" src="https://i.postimg.cc/sfb7c3Gx/icons8-linkedin-64.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
